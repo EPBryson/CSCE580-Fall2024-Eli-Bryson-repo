@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duayne Alexander Wright Jr
+
+751 Jacobs Mill Pond Rd / Duaynealex@gmail.com / 803-567-9785
+
+Objective
+Detail-oriented Computer Science undergraduate student with one year of experience in calibrating, testing, and
+analyzing structural vibration data. Variety of experience in C/C++, Java, JavaScript, Python, MatLab, HTML, and CSS.
+Developed a python-based visualization tool to determine the extent to which sensors can be relocated without
+recalibration. Additional projects include IPC implementation for file handling using shared memory, backend and GUI
+development for a project management tool, and algorithm implementations in Huffman Trees, graph theory, and
+dynamic programming. Seeking a challenging position in Software Development where I can utilize my experience to
+contribute to the growth and success of the company as well as the community.
+
+Education
+University of South Carolina - Currently Enrolled
+Columbia, SC - Dean’s List May 2025
+Bachelor of Science in Computer Science GPA: 4.0
+
+University of Maryland Global Campus
+University of Maryland, FPO AP - Dean’s List December 2020
+Bachelor of Science in Computer Science - 54 credits completed GPA: 3.87
+
+Relevant Coursework
+Advanced Technical Writing Computer Networks Operating Systems
+Applied Linear Algebra Data Structures and Algorithms Software Engineering
+Computer Architecture MTA Software Development Fundamentals (98-361)
+
+Relevant Experience
+Research Assistant
+ASSET, LLC - Columbia, SC May 2023 - Current
+● Successfully conducted multiple experiments, with over 3,000 data points collected, to determine 100%
+confidence in sensor relocation without recalibration for a radius of up to 6 inches.
+● Analyzed and annotated over 9,300 event reviews to assist in ASSET’s machine learning capabilities, improving
+the quality of life and safety for senior citizens in assisted living facilities.
+● Individually created handwritten blueprints and constructed 14 layouts utilizing TeXstudio software.
+
+Professional Musician June 2018 - July 2022
+United States Marine Corps Band - Okinawa, Japan
+● Participated in and perfected objectives such as training, swimming, and martial arts courses.
+● Dedicated an average of 15 hours per week in preparation for any given performance or maintenance.
+● Performed a variety of concerts for employees and foreign artists encompassing the Indo-Pacific region.
+● Memorized music and marching movements in 30 days to perform for an audience of 150,000 people over the
+span of 9 days. This resulted in a successfully completed joint musical operation to improve and maintain foreign
+relations with the United States.
+● Committed to musical performance and excellence for 12 years.
+
+Section Manager February 2021 - July 2021
+United States Marine Corps Band - Okinawa, Japan
+● Maintained the upkeep of gear, memorized music, and routines for 10 colleagues under my charge.
+● Directly responsible for handling and building upon the successes and failures of the section.
+● Personally developed daily warm up routines to enhance the musicianship and playing capability.
+
+

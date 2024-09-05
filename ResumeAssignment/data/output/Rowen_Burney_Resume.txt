@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rowen D. Burney 
+rowendburney@gmail.com     |     864-601-0476     |      linkedin.com/in/rowenburney 
+
+ 
+
+EDUCATION 
+ 
+
+University of South Carolina, Columbia SC                          Graduating May 2025 
+
+● MS in Mechanical Engineering                                        GPA: 4.00 
+
+● BS in Mechanical Engineering                                GPA: 3.44 
+
+ 
+
+WORK EXPERIENCE 
+ 
+
+Engineering Intern, Fluor Corporation - Greenville, SC      May 2023-Aug 2023 
+● Leveraged engineering judgment to streamline a Class 3 estimate for an international lithium mining project 
+
+● Applied regional and international standards to assess equipment noise emission, expediting site permitting 
+
+● Optimized conveyor angles, reducing site footprint by 87 meters and reducing equipment cost by $350,000 
+
+● Employed effective communication skills to secure proactive equipment quotes, mitigating information gaps 
+
+and sustaining project timelines 
+
+ 
+
+Engineering Intern, Engine Power Source - Rock Hill, SC                May 2022-Aug 2022 
+
+● Led an efficiency project to increase diesel power unit production to meet increasing client demands 
+
+● Designed subassemblies, conducted time studies, and created detailed work instructions to standardize 
+
+production, decrease errors and improve efficiency by over 30% 
+
+ 
+
+Instrument Technician, OpTek Systems - Greenville, SC     May 2020-Aug 2020 
+
+● Operated a laser cleaving machine to produce fiber optic filaments for use in medical devices 
+
+● Implemented a new production cycle which allowed for simultaneous manufacturing and quality control of 
+
+glass fibers, resulting in doubled production and a 100% quality control rating 
+
+ 
+ 
+
+RESEARCH EXPERIENCE 
+ 
+
+McNair Aerospace Center, Graduate Researcher                      Aug 2023-Present 
+
+● Developed automated process planning functions for CAPP that allow for quick analysis and optimization 
+
+of process planning in an intuitive way through graphical user interfaces 
+
+ 
+
+neXt Future Factories Visual Inspection Station               Jan 2023-May 2023 
+
+● Created a custom image classification model using PyTorch, that identifies part defects and communicates 
+
+them within a fully autonomous manufacturing cell 
+
+ 
+
+PROJECTS 
+ 
+
+Fluor Capstone Project                                                                                        Aug 2022-May 2023 
+● Competed in the Fluor design challenge to create a cost-effective, modular Clean In Place skid, ensuring 15 
+
+GPM water flow at 25 psi and a 10-degree per minute temperature rise under $2000 
+
+● Developed 3D models and technical drawings for a CIP skid, created assembly-focused instructions 
+
+enabling precise cost estimates and structural analysis  
+
+● Delivered a single-attempt successful prototype, winning the Fluor design competition and delivering the 
+
+only functional and under-budget entry 
+
+ 
+
+SKILLS  
+ 
+
+Languages: Python, Mathematica 
+Design Tools: CREO, CATIA V5, SolidWorks, VCP, Process Simulate 
+
+http://www.linkedin.com/in/rowenburney
+

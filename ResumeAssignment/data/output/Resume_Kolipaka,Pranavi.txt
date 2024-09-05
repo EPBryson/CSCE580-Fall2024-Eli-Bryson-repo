@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venkata Naga Sri Sai Pranavi Kolipaka 
+Email: kolipakavnssaipranavi@gmail.com Phone: +1(803)-869-3706 
+
+LinkedIn: https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/  
+GitHub: https://github.com/Pranavi2002  
+
+ 
+SUMMARY  
+
+• A detail-oriented recent computer science graduate specialized in Java full-stack 
+development. 
+
+• Eager to apply academic knowledge and internship experience to innovative projects while 
+expanding skills and adapting to new technologies. 
+
+ 
+
+SKILLS 
+• Programming Languages: 
+
+C, Java, Python, R 
+• Web Development: 
+
+HTML, CSS, JS, Angular, ReactJS, NodeJS, MongoDB, 
+MySQL, Servlets, JSP, Hibernate, Spring and Spring Boot 
+
+• Cloud Platform:   AWS 
+• Other: 
+
+Data Structures and Algorithms, Hadoop, Database 
+Management Systems, Software Engineering, Data Science, 
+Machine Learning, Data Visualization Tools, Big Data 
+Analytics, Git and GitHub 
+
+ 
+
+ 
+
+WORK EXPERIENCE 
+Software Developer Intern, TechCiti Software Consulting Private Limited   
+
+• Worked on the project “Hospital Management System” for a month using Angular and 
+Firebase. 
+
+Web Development Intern, NullClass Edutech Private Limited 
+• Worked on the projects “Stack Overflow Clone” and “Chatbot Application” using 
+
+MERN stack. 
+Web Development Intern, Verzeo Edutech Private Limited 
+
+• Worked on minor and major projects i.e., building a 3-page navigation website, using 
+ReactJS, Bootstrap and CSS. 
+
+Data Science Intern, Yhills Edutech Private Limited 
+• Worked on the projects “New York Taxi Fare Prediction” and “H1N1 Vaccination 
+
+Prediction” using Regression and Classification techniques. 
+Graduate Teaching Assistant, University of South Carolina 
+
+• Working as a graduate teaching assistant for undergraduates for CSCE 102 course 
+(HTML, CSS, JS). 
+
+ 
+ 
+ 
+ 
+
+ 
+
+mailto:kolipakavnssaipranavi@gmail.com
+https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/
+https://github.com/Pranavi2002
+
+
+EDUCATION 
+Bachelor of Technology (CSE) – Koneru Lakshmaiah Education Foundation      2019 - 2023 
+
+• Pursued my under-graduation with a CGPA of 9.12. 
+Master of Science (CS) – University of South Carolina     2023 - Present 
+
+• Pursuing my graduation with a current CGPA of 4.0. 
+ 
+MAJOR PROJECTS 
+e-Approval System 
+
+• It is a full-stack project developed using HTML, CSS, Servlets, and MySQL. My 
+contribution in this project includes working on Servlets, and MySQL. The primary 
+objective of this application is to determine the eligibility of a student for admission 
+into an engineering college based on their percentage scores in tenth grade and 
+intermediate examinations. 
+
+ 
+
+User CRUD 
+• I developed this project using React JS, SpringBoot, and MySQL. It is a basic level 
+
+project which includes basic tasks like creating a user, editing and deleting the user, 
+displaying the user details on the browser. 
+
+ 
+
+Bringing Awareness on Indian Constitution 
+• My contribution involves developing this project that utilizes Java Full Stack 
+
+development, specifically leveraging Spring Boot technology. 
+
+Hospital Management System 
+• I contributed to this project by developing it with the help of Angular and Firebase, 
+
+consisting of features like doctor, patient, and login authentication. 
+
+Analysis on Mexican Government COVID-19 Patient Pre-condition Data 
+• I developed this project using Tableau, the data visualization tool. 
+
+ 
+
+CERTIFICATIONS AND PUBLICATIONS 
+
+• Aviatrix Certified Engineer in Multi-cloud Networking Associate. 
+• Oracle Cloud Infrastructure Foundations 2021 Certified Associate. 
+• Oracle Cloud Infrastructure Developer 2021 Certified Associate. 
+• Oracle Machine Learning using Autonomous Database 2021 Certified Specialist. 
+• Microsoft Azure Developer Associate. 
+• Microsoft Azure DevOps Engineer Expert. 
+• Cambridge English Entry Level Certificate in ESOL International (Business 
+
+Preliminary). 
+• Published a research paper “Performance of Convolutional Neural Network for 
+
+NIDS Network Intrusion Detection System” based on NIDS dataset and Machine 
+Learning techniques in the NeuroQuantology journal. 
+
+• The paper “Development and Validation of Unsupervised Machine Learning 
+Clustering Techniques” based on Social Media dataset and Data Science techniques 
+has been presented in the SmartCom 23 Conference. 
+
+

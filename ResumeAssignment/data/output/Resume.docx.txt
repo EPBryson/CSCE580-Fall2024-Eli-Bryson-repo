@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume.docx
+
+
+John Alexander Aydin
+
+Charleston, SC
+
+843-906-0104
+
+johnaaydin@gmail.com
+
+linkedin.com/in/johnaaydin
+
+github.com/john-a-aydin
+
+EDUCATION
+
+University of South Carolina Expected End: May 2025
+
+Bachelor of Science in Computer Engineering GPA: 3.7
+
+● President’s Honor List
+
+Relevant Courses: Algorithmic Design, Data Structures and Algorithms, UNIX
+
+Fundamentals, Computer Architecture, Operating Systems, Statistics for Engineers
+
+TECHNICAL SKILLS
+
+Golang, Typescript, AWS S3,
+
+EXPERIENCE & PROJECTS
+
+Good Eats (Personal Project) good-eats-tawny.vercel.app June 2023 - Present
+
+A recipe sharing website with a focus on nutrition and fitness.
+
+● Brought me to an intermediate understanding of Typescript, Next.js, tRPC, and
+
+AWS S3
+
+● Learned the importance of data modeling, documenting changes, and setting a
+
+scope when implementing new features
+
+● Learned how to debug and test code with Chrome DevTools
+
+Server’s Assistant Apr 2023 - July 2023
+
+● Managed the flow of dishes throughout the restaurant during services exceeding
+
+600 customers
+
+● Learned valuable teamwork, communication, and conflict resolution skills in high
+
+pressure situations
+
+Autonomous Robot Project for Robotics Class Aug 2022 - Dec 2023
+
+● Programmed a PID controller to make a robot to follow a lane using ROS
+
+● Utilized containerization and bash scripting to consistently reproduce execution
+
+environments
+
+● Learned how to work with and visualize distributed systems to perform complex
+
+computing tasks
+
+mailto:johnaaydin@gmail.com
+http://linkedin.com/in/johnaaydin
+http://github.com/John-A-Aydin
+http://good-eats-tawny.vercel.app
+

@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bryan (Chance) Storey 
+(281) 221 - 4531 | bcstorey@email.sc.edu | linkedin.com/in/by-chance 
+
+12710 Mutiny Ln 
+
+Tomball, TX 77377 
+ 
+
+Skills: 
+Proficient with: Java, Python, SQL, C#, C++, JavaScript, Microsoft Excel 
+Experience with: Allegro, SSAS, React JS, Visual Basic / VBA, Amazon Web Services 
+
+ 
+
+Education: 
+University of South Carolina, Columbia, SC 
+Bachelor of Science in Computer Science & Mathematics | May 2025 
+
+• Honors College, Top Scholar, Stamps Scholar 
+ 
+
+Work Experience: 
+By Chance Solutions, Houston, TX 
+
+Founder | May 2019 – Present 
+
+• Founded personal software consulting company 
+
+• Created prototype website and maintained AWS for social media startup MyBlankJob 
+
+• Led team to automate adhesive-packing machine for a local aerospace company 
+ 
+
+Atlas Oil Company, Houston, TX 
+Data Analyst | January 2024 – Present 
+
+• Designed and developed automated processes for position, MtM and P&L reporting 
+• Created system to reconcile in-house inventory with 3rd party inventory reports for back office 
+
+ 
+Veritas Total Solutions, Houston, TX 
+Junior Developer | May 2023 – November 2023 
+
+• Worked on a multitude of projects for an ETRM software consulting firm 
+
+• Created risk reporting database using star-schema design and SSAS cube built on top 
+
+• Programmed custom Allegro functionality to map and export data for PDI accounting software 
+ 
+Parkland Corporation, Houston, TX 
+Summer Software Intern | June 2022 – August 2022 
+
+• Managed and eventually automated the daily inventory report for US refined fuels trading entity 
+
+• Utilized a mixture of Python, SQL, Microsoft Power Automate tools and Excel to automate the 
+collection of volumes data from PDF files 
+
+ 
+Idea Lab Kids, Spring Branch, Houston, TX 
+
+Camp Teacher | May 2019 – August 2019 
+
+• Taught day camps with kids ages 6 – 12 on topics such as basic web design and programming, 
+circuitry, drones, 3D printing, woodworking, engineering, and baking 
+
+ 
+ 
+
+Activities: 
+First Robot Competition, Houston, TX 
+Lead Programmer | Team 8177 “Vector” | August 2019 – May 2021 
+
+• Built and programmed large robots to perform a variety of tasks 
+
+• Trained new programmers on robot code, GitHub, and the robot’s circuitry 
+
+mailto:bcstorey@email.sc.edu
+

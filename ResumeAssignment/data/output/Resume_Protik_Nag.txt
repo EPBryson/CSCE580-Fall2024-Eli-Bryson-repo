@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protik Nag
+# pnag@email.sc.edu ï Protik Nag § ProtikNag
+
+Education
+
+University of South Carolina August, 2023 – Present
+
+Ph.d Student, Computer Science and Engineering
+
+Shahjalal University of Science and Technology January, 2016 – December, 2019
+
+Bachelor in Science, Computer Science and Engineering
+
+Research Interest
+
+Graph Neural Network with Reinforcement Learning for Propagation Minimization
+• Developed a graph neural network model in a supervised learning setup to minimize rumor propagation in a
+network. This model can predict which nodes are useful to block so that infected nodes with rumor cannot
+propagate information to other nodes.
+
+• Planning to implement the graph neural network model in a reinforcemnet learning setup to do further
+exploration.
+
+Continual Learning on Graph Neural Network
+• Currently exploring different benchmarking methods on graph continual learning.
+
+Selected Publications and Preprints
+
+“Fundamental Machine Learning Routines as Quantum Algorithms on a Superconducting
+Quantum Computer.”, Sristy Sangskriti, Protik Nag, Summit Haque, arXiv preprint
+arXiv:2109.09522. [URL]
+
+“A Closer Look into Paintings’ Style Using Convolutional Neural Network with Transfer
+Learning.”, Protik Nag, Sristy Sangskriti, Marium-E-Jannat, In Proceedings of International Joint
+Conference on Computational Intelligence (pp. 317-328). Springer, Singapore. [URL]
+
+“Quantum Noise And Measuring Quantum Distance For NISQ Circuits.”, Sakibul Islam
+Sazzad, Protik Nag TechRxiv preprint TechRxiv:21791987. [URL]
+
+Experience
+
+Therap (BD) Ltd. July, 2020 – Present
+
+Software Engineer, Machine Learning Dhaka, Bangladesh
+• Developed and deployed a machine learning model that can predict the probability of a severe injury or
+seizure of a patient in a specific period based on preceding data: used Cox Proportional-Hazard (CPH) and
+Accelerated Failure Time (AFT) model to develop this.
+
+• Applied different statistical analyses and feature engineering to find similarities between multiple trends.
+
+Pipilika, Bangla Search Engine September, 2019 – March, 2020
+
+Intern at Research and Development Sylhet, Bangladesh
+• Developed and integrated an automated crawler using Scrapy to crawl top news from prominent daily
+newspapers.
+
+• Fine-tuned a machine learning model that used the latest crawled news to extract keywords and summarise
+them to display on the website.
+
+Technical Skills
+
+Languages: Python, C++, SQL
+Technologies/Frameworks: PyTorch, Keras, Qiskit
+
+mailto:x@gmail.com
+https://www.linkedin.com/in/protik-nag-626646147/
+https://github.com/ProtikNag
+https://arxiv.org/abs/2109.09522
+https://link.springer.com/chapter/10.1007/978-981-15-3607-6_26
+https://www.techrxiv.org/articles/preprint/Quantum_Noise_And_Measuring_Quantum_Distance_For_NISQ_Circuits/21791987
+
+	Education
+	Research Interest
+	Selected Publications and Preprints
+	Experience
+	Technical Skills
+

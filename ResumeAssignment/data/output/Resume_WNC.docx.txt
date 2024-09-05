@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume_WNC.docx
+
+
+William Wenshu Novak-Condy
+Current Address: WWN@email.sc.edu Permanent Address:
+1 Cottonplace Ln (843) 714-3994 16 Larnes St
+Columbia, SC 29208 Charleston, SC 29403
+
+EDUCATION
+
+University of South Carolina Columbia, SC
+Candidate for a B.S. in Computer Science, GPA: 3.96/4.0 Anticipated Graduation: December 2024
+
+- Concentration in Data Science
+
+- Capstone Scholar, President’s List (Fall 2021 - Spring 2023), Palmetto Fellows
+
+- Relevant Coursework: Operating Systems, Data Structure & Algorithms, Software Engineering, Database System
+
+Design, UNIX/Linux Fundamentals, Intro to Computer Networks, Foundations of Computing, Artificial Intelligence
+
+EXPERIENCE
+
+University of South Carolina School of Business Columbia, SC
+Undergraduate Software Developer January 2024 – Present
+
+- Managed, debugged, and tested code to ensure correct and smooth operation
+- Developed code that gathers information on a plethora of different online retailing website in different locations
+
+using Python
+- Discussed issues and ideas for troubleshooting and optimization with other developers and supervisors at weekly
+
+meetings
+Capstone Project Columbia, SC
+Team Member August 2023 – May 2024
+
+- Designed a web application that allows users to plan trips to climbing destinations in the United States based on
+weather, distance, and type of climbing
+
+- Researched similar web applications to analyze common key features and structures to ensure implementation
+was effective and efficient
+
+- Ensured features aligned with our choices of framework, target audience usage, and APIs
+- Contributed to making a working version of the application using Next.js as the frontend and Django as the
+
+backend
+- Coordinated and assigned diverse tasks for each team member to ensure equal work and error checks on all
+
+parts of the project
+Strom Thurmond Fitness and Wellness Center Columbia, SC
+Climbing Wall Assistant January 2022 – Present
+
+- Facilitated an inclusive and safe environment for all participants
+- Instructed participants on how to properly perform integral climbing safety techniques, evaluated their
+
+performance, and advised them on how to mentally and physically prepare for climbing
+- Regularly assessed the condition of climbing equipment at the climbing wall in order to ensure safe and smooth
+
+operation
+- Collaborated with co-workers and management to develop new ways to promote the climbing wall and improve
+
+the experience for participants
+SKILLS/INTERESTS/CERTIFICATIONS
+
+Computer: Java, C++, Python, SQL
+Languages: Proficient in Spanish
+Certifications: Climbing Wall Instructor Top Rope & Lead
+Interests: Dedicated Rock Climber (2012 – Present), Guitar
+
+

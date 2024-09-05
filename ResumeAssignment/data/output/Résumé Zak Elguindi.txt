@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zak Elguindi 
+   
+
+484-985-0795 
+zakelguindi@gmail.com 
+
+1714 Chantilly Lane 
+Chester Springs, PA, 19425 
+
+github.com/zakelguindi 
+linkedin.com/in/zakaryelguindi 
+
+ 
+
+EDUCATION  
+
+Columbia, SC University of South Carolina August 2021-May 2025 
+
+• Major: Computer Information Systems B.S.E  
+
+• Minor: Business Information Management 
+
+• Programming Coursework: Data Structures & Algorithms, Database Systems, Web-
+Development 
+
+• GPA: 3.96 
+ 
+
+Skills 
+
+• OOP: Java, C++, Python, MySQL 
+
+• Web Dev: JavaScript, HTML, CSS 
+
+• Additional Skills: Git, Scrum, Agile, AI/ML 
+ 
+
+Experiences  
+
+Software Engineer Intern Cencora Summer 2024 
+
+• Engineered Python programs leveraging Azure OpenAI models to streamline operations 
+
+across multiple business units  
+
+• Acquired and applied new technical skills to diverse projects, conducting extensive 
+experimentation with various libraries and applications 
+
+• Collaborated in an agile environment to innovate AI/ML solutions, enhancing productivity and 
+efficiency in previously untapped business units. 
+
+ 
+IT Intern 
+
+ 
+Cencora 
+
+ 
+Fall 2023 
+
+• Accelerated project efficiency by aligning the financial, business, and IT teams through 
+effective communication, budgeting, and synthesis of the business goals to IT 
+implementations 
+
+• Improved stakeholder awareness through proactive workflow documentation of key meetings  
+
+• Increased efficiency in outsourcing projects by identifying vendors through research 
+initiatives and analyzing their return on investment 
+ 
+
+Software Engineering, TA University of South Carolina Fall 2023 
+
+• Aided in teaching software design, design patterns, source control, and testing, 
+
+strengthening students’ software development capabilities   
+
+• Orchestrated agile scrum sessions, teaching students fundamental software development 
+
+principles to enhance their comprehension of software design and implementation  
+
+• Supported students in mastering Object-Oriented and Functional Design techniques   
+
+ 
+
+Projects 
+
+Java Camp Application  Fall 2022 
+
+• Collaborated in a team of four collaboratively on a large-scale project using git, collecting 
+
+requirements from a faux client 
+
+• Architected a software solution making a UML class diagram, implementing multiple Design 
+
+patterns, and directing unit tests utilizing J-Unit 
+
+

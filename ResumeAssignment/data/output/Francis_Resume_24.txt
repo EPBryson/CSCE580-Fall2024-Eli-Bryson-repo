@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Francis_Resume_2024.docx
+
+
+Page 1 of 2 
+ 
+
+Benjamin Francis 
+ 
+
+West Columbia, SC 29169 | (803) 467-6248 | ben.francis551@gmail.com  
+
+EDUCATION 
+
+University of South Carolina – Columbia 
+Master of Science (M.S.) in Mechanical Engineering | GPA: 4.0                               Expected December 2024 
+
+University of South Carolina – Columbia 
+Bachelor of Science (B.S.) in Mechanical Engineering | GPA: 3.573 Graduated December 2021 
+
+RELEVANT EXPERIENCE 
+
+Graduate Research Assistant | University of South Carolina January 2022 – Present 
+
+ Produce novel methodologies to realize a closed-form optimization cycle for Automated Fiber Placement (AFP) 
+ Develop physics-based models to predict behavior of AFP process parameters 
+ Create machine program to manufacture experimental structures using CATIA V5 software 
+
+Engineering Intern | NASA Langley Research Center June 2022 – August 2022 
+
+ Enhanced post processing software to create machine program for manufacturing steered composite laminates  
+ Implemented functionality to generate a cleaner, more efficient workflow using Python 
+ Assisted with manufacturing and inspection trials of several projects at the ISAAC (Integrated Structural Assembly of 
+
+Advanced Composites) facility 
+
+Undergraduate Research Assistant | University of South Carolina August 2021 – December 2021 
+
+ Evaluated existing literature to create review for physics-based process modeling and digital twins in AFP 
+ Developed software to calculate roller orientation needed to achieve optimal AFP compaction pressure 
+
+Engineering Intern | Nephron Pharmaceuticals May 2021 – August 2021 
+
+ Worked on several key projects to advance pharmaceutical manufacturing with the Design and Robotics team 
+ Automated the quality assurance process of Blow-Fill-Seal vials through enhancement of machine functionality 
+ Composed project documentation to evaluate machine capabilities and establish standard operating procedures 
+
+WORK EXPERIENCE 
+
+Academic Tutor | University of South Carolina August 2020 – December 2021 
+
+ Guided student athletes through course material by developing proper study skills and strategies 
+ Highlighted important subject matter and created practice problems for stronger comprehension 
+ Worked with students from varying academic backgrounds on enhancing their scholarly habits 
+
+Martial Arts Instructor | Columbia Martial Arts and Fitness January 2015 – August 2020 
+
+ Lead students aged 3-16 in the fundamentals of Jeet Kune Do, Brazilian Jiu Jitsu, and Leadership 
+ Instilled important life lessons through coaching and character development 
+ Encouraged student’s physical growth through exercise, coordinated practice, and scenario training 
+
+SKILLS 
+
+ CATIA V5 | Creo | Autodesk | Siemens Process Simulate | HyperX | Vericut Composite Programming | MATLAB | 
+Python | Design for Manufacturing | CAD/CAM | Microsoft Office 
+
+ACHIEVEMENTS AND AWARDS 
+
+ Garnet Scholars Award | Dean’s List | Senator John G. Blackmon Mechanical Engineering Scholarship | Dr. Nathan E. 
+Hardwick Mechanical Engineering Scholarship  
+
+ 
+
+
+
+Page 2 of 2 
+ 
+
+PUBLICATIONS 
+
+Journal Articles 
+
+ Brasington, A., Francis, B., Godbold, M., & Harik, R. (2023). A review and framework for modeling methodologies 
+to advance automated fiber placement. Composites Part C: Open Access, 10, 100347. 
+https://doi.org/10.1016/j.jcomc.2023.100347  
+
+Conference Proceedings  
+
+ Godbold, M., Francis, B., Brasington, A., & Harik, R. (2023). Hybridized Model for Temperature Prediction in 
+Automated Fiber Placement. SAMPE Conference and Exhibition. Seattle, WA.  
+
+ Francis, B., Kirkpatrick, M., Sander, D., Brasington, A., & Harik, R. (2023). Towards a Virtual Manufacturing 
+Architecture to Capture the Automated Fiber Placement Lifecycle. SAMPE Conference and Exhibition. Seattle, WA.  
+
+PRESENTATIONS 
+
+ Francis, B., (2023). Towards a Virtual Manufacturing Architecture to Capture the Automated Fiber Placement 
+Lifecycle. SAMPE Conference and Exhibition. Seattle, WA. 
+
+ Francis, B., (2022). Physics-Based Process Parameter Modeling for Automated Fiber Placement. NASA EPSCoR 
+Workshop. Columbia, SC. 
+
+ Francis, B., (2022). Post-Processing Software for Steered Composite Optimization. NASA Langley Research Center. 
+Hampton, VA. 
+
+ Francis, B., (2022). Physics/Multiphysics Modeling in Automated Fiber Placement: A Literature Review. NASA 
+EPSCoR Meeting. Columbia, SC. 
+
+

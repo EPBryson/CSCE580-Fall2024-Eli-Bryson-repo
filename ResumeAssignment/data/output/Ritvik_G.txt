@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ritvik G
+ritvik916@gmail.com | linkedin.com/in/ritvikg | github.com/ritvik-g
+
+Education
+
+National Institute of Technology Andhra Pradesh, IN
+Bachelor of Technology in Computer Science June 2020 to May 2024
+
+Sri Kumaran Children’s Home Bangalore, IN
+Senior Secondary in Computer Science June 2018 to May 2020
+
+Experience
+
+Research Specialist I January 2022 to Present
+AI Institute - University of South Carolina Columbia, SC
+
+• Working on Alleviate 2.0: Demonstrating Artificial Intelligence Enabled Virtual Assistance for Telehealth
+
+• Developing interface for GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly
+Article Searches for Systematic Reviews
+
+Research Affiliate September 2022 to December 2023
+AI Institute - University of South Carolina Columbia, SC
+
+• Published a paper - FACTIFY3M: A Benchmark for Multimodal Fact Verification with Explainability through 5W
+Question-Answering at EMNLP 2023
+
+• Extracted fact checking information from 5 datasets [Fever, Snopes, Politifact, HoVer, FaVIQ]
+
+• Aided in writing sections of the paper
+
+Project Intern July 2022 to March 2023
+Indian Institute of Science Bangalore, IN
+
+• Developed a website for an AI based postural analysis and sport bio-mechanical analysis using [React + MySQL]
+stack
+
+• Embedded a Chatbot [Bloom] fine tuned on fitness and nutrition data for Question Answering
+
+• Advanced a Computer Vision model [MoveNet] for enhanced body posture analysis
+
+Full Stack Developer July 2022 to August 2022
+Indian Institute of Technology - Madras Chennai, IN
+
+• Created a full stack website for a project called Kaatru using MERN stack [MongoDB, Express, ReactJS, NodeJS]
+
+• Integrated Real time info from monitoring vehicles and stats on interactive maps for suggestion of best route for
+travel. [developed APIs]
+
+Computer Vision Intern May 2022 to July 2022
+Indian Institute of Science Education and Research - Bhopal Bhopal, IN
+
+• Domain trained 3 CNN models [ResNet50, AlexNet, Pretrained ResNet] over images of smokers and non-smokers
+for classification on Mendeley’s dataset and a custom created dataset. Task included data augmentation, noise
+reduction, contrast enhancement.
+
+• Created a custom dataset of 400 images by extracting images from different open source documents.
+
+Research & Development Intern November 2021 to December 2021
+Deep Element AI Atlanta, GA
+
+• Search Ranking : Developed PyTorch program using SentenceTransformer for ranking of web pages by the complex
+keywords
+
+• Information Retrieval: Developed PyTorch program for web scraping and information retrieval from websites using
+NLTK, BeautifulSoup and spaCy toolkit.s
+
+Full Stack Development Intern October 2021 to June 2022
+National Institute of Technology - Andhra Pradesh Tadepalligudem, IN
+
+• Transformed the university’s alumni reach through creation of an interactive portal consisting of alumni search,
+events, digital IDs, giveback program features using MERN stack
+
+Mentor October 2020 to March 2021
+Tekie Delhi, IN
+
+• Taught Python programming language to students from grade 6 to 12
+
+mailto:ritvik916@gmail.com
+https://linkedin.com/in/ritvikg
+https://github.com/ritvik-g
+
+
+Full Stack Developer June 2018 to January 2019
+Cisco Talent Outreach Program Bangalore, IN
+
+• Led the team for creation of a full stack library management portal and a digital question bank management
+system using Django Framework and MySQL
+
+Publications
+
+Factify3M : A Benchmark for Multimodal Fact Verification with Explainability through 5W
+Question-Answering
+
+Certifications
+
+NPTEL - Applied Accelerated Artificial Intelligence
+MoE Govt. of India - Overview of Blockchains
+Nvidia DLI - Deep Learning
+NPTEL - Natural Language Processing
+Stanford Online - Machine Learning
+EICT IIT Roorkee - Python for Machine Learning
+Microsoft - MTA Introduction to Python
+
+Technical Skills
+
+Languages: Python, Java, Javascript, C, C++
+Databases: MySQL, MongoDB, Firebase, PostgresSQL
+Domains: Artificial Intelligence, Neuro-Symbolic AI, Full Stack Development, Deep Learning, Computer Vision, NLP
+Frameworks: ReactJS, Django, NextJS, Material-UI, Bootstrap
+Developer Tools: Git, GitHub, Kaggle, Visual Studio Code, PyTorch
+
+ACHIEVEMENTS — EXTRACURRICULARS
+
+AlmaConnect [Alumni Association of NIT Andhra] founding member & student coordinator - IV year
+Google Developer Student Clubs Lead for NIT Andhra Pradesh - III year
+Teaching Assistant - Operating Systems for 150 Sophomore students during my V semester
+Outstanding Delegate Award in International Model United Nations 74.0 representing Ethiopia
+Best Parliamentarian Award in Model Parliament of Sweven, NIT Andhra Pradesh
+
+https://openreview.net/pdf?id=2XDbDwNlTn
+
+	Education
+	Experience
+	Publications
+	Certifications
+	Technical Skills
+	ACHIEVEMENTS | EXTRACURRICULARS
+

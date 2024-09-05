@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tyler Beasley
+(404) 432-2452 | tylerbeasley@outlook.com
+
+EDUCATION
+University of South Carolina, Columbia, SC Anticipated Graduation: May 2025
+BSE in Computer Engineering
+Minor in Data Science GPA: 3.89
+Capstone Scholars and Dean’s List Fall 2021 – Spring 2023
+Presidents List Fall 2021 Tau Beta Pi Engineering Honors Society Member
+
+RELEVANT COURSES
+Robotic Applications and Design Advanced Logic Design Advanced Programming
+
+Techniques
+Algorithmic Design I/II Electrical Sciences Linux/Unix Fundamentals
+Operating Systems Calculus and differential equations Computer Architectures
+
+WORK EXPERIENCE
+USC Center for Predictive Maintenance
+Undergrad Research Assistant August 2023 - Present
+• Designed components of a helicopter using CAD and finite element analysis to create a simulation
+that reads vibration signals of faulted bearings to be used to detect bearing faults on active helicopters
+• Collaborated with research team on simulations, data collection, and developing final research report
+Dodie Anderson Athletic Enrichment Center
+Tutor August 2022 - May 2023
+• Assisted student-athletes in courses such as calculus, statistics, algebra, physics, and more
+• Mentoring peer students with a focus on genuine understanding of subjects and concepts in order to
+provide an improved understanding of their course
+
+TECHNICAL AND LEADERSHIP EXPERIENCE
+• Using C/C++ and java on various projects involving sorting algorithms as well as OS simulation
+• Used System Verilog to program a DE2-115 board and create a RISC-V processor, capable of reading
+most assembly instructions
+• Created python programs with Docker and ROS for robotics programming, including a PID controller
+to allow lane following capabilities on the robot
+Sustainable Carolina
+Zero Waste Team Member August 2023 – Present
+• Working with like-minded peers in coordinating on-campus events with the idea of reducing waste in
+day-to-day life, such as coordinating on-campus trash pick-ups and other events to raise awareness for
+sustainability on-campus
+
+SKILLS
+C++ Linux/Unix System Verilog
+
+Matlab Python Creo/Solidworks
+Abaqus Java ROS
+
+mailto:tylerbeasley@outlook.com
+
+
+

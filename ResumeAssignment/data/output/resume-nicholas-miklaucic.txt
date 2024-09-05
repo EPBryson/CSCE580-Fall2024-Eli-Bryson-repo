@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicholas Miklaucic  
+he/him/his | nicholas.miklaucic@gmail.com   |   (704) 305-3762  |   linkedin.com/in/nicholas-miklaucic   |   nicholas-miklaucic.com
+
+Education
+University of South Carolina, Columbia, SC Aug. 2023
+Ph.D Student., Computer Science
+Northeastern University, Boston, MA Sep. 2019–May 2023
+B.S., magna cum laude, Data Science & Behavioral Neuroscience—GPA 3.75/4.00
+
+Technical Knowledge
+Languages Python, Rust, Java, R, Javascript, SQL, C++, Haskell, Bash, Emacs Lisp
+Libraries PyTorch, TensorFlow, Pyro, NumPy, Pandas, Xarray, SciPy
+Software Git, Jupyter, Linux, LaTeX, Tableau, Excel
+
+Professional Experience
+Machine Learning and Evolution Laboratory, University of South Carolina Jul. 2023–Present
+Graduate Researcher
+
+• Develop and improve existing crystal structure prediction algorithms
+• Use deep learning, symmetry, and Bayesian optimization to accelerate crystal structure generation
+• Develop diffusion models that achieve de novo generation without expensive DFT calculation
+
+Generalizable Robotics and Artificial Intelligence Laboratory, Northeastern University Oct. 2021–Apr.2023
+Undergraduate Researcher
+
+• Develop reinforcement learning agents that use natural language to achieve SOTA performance
+• Train neural networks for multimodal learning using PyTorch and TensorFlow
+
+Skyhawk Therapeutics Jul. 2021–Dec. 2021
+Co-op Student Intern
+
+• Created and developed PyTorch machine learning pipeline to correct artifacts of experimental genomics data
+• Built bespoke, interactive web dashboards using Python and Javascrip to visualize output analyses
+• Thoroughly reviewed existing bioinformatics literature to implement and improve on existing algorithms
+
+Publications
+• Kopec, M., Magnani, M., Ricks, V., Torosyan, R., Basl, J., Miklaucic, N., Muzny, F., Sandler, R., Wilson, C., Wisniewski-Jensen, A., 
+
+Lundgren, C., Baylon, R., Mills, K., & Wells, M (2023). The Effectiveness of Embedded Values Analysis Modules in Computer Science 
+Education: An Empirical Study. Big Data & Society (accepted for publication) https://doi.org/10.48550/arXiv.2208.05453
+
+• Swire-Thompson, B., Miklaucic, N., Wihbey, J. P., Lazer, D., & DeGutis, J. (2022). The backfire effect after correcting misinformation 
+is strongly associated with reliability. Journal of experimental psychology. General, 151(7), 1655–1665. 
+https://doi.org/10.1037/xge0001131
+
+Projects
+AISpell   |    github.com/nicholas-miklaucic/aispell-app Mar. 2023–Present
+
+• Build software using language and keyboard modeling to intelligently spell check documents
+• Implement latest language models in Rust to determine user intent (2500 lines of code)
+
+Constellate    |    github.com/constellate-org/constellate    |    rho.vercel.app Dec. 2021–Present
+• Build open-source web publishing platform for Jupyter notebooks using React, Python (8000 lines of code)
+• Write essays on various topics, including using AI language models to understand gendered names
+• Fashion a cohesive design system for web, Matplotlib, Bokeh, Vega with comprehensive dark mode support
+
+Homework Help Discord Bot    |    github.com/nicholas-miklaucic/serene-nano May 2021–Present
+• As server administrator, architect Discord bot in Rust for volunteer tutoring server with over 1000 members
+• Automatically translate non-English text, allocate karma to incentivize contribution
+
+mailto:nicholas.miklaucic@gmail.com
+https://github.com/nicholas-miklaucic/serene-nano
+https://rho.vercel.app/gender-in-ai-language-models-what-s-in-a-name/0
+http://rho.vercel.app/
+https://github.com/constellate-org/constellate
+https://github.com/nicholas-miklaucic/aispell-app
+https://doi.org/10.1037/xge0001131
+https://doi.org/10.48550/arXiv.2208.05453
+http://nicholas-miklaucic.com/
+http://www.linkedin.com/in/nicholas-miklaucic
+

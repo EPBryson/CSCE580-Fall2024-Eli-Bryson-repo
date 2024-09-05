@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIRSTNAME LASTNAME
+
+
+ Michael (Andy) Waters, MBA, MSBA 
+
+                      Aiken, SC 29805 USA  
+michael.andy.waters@gmail.com      |     US Mobile:  +1 (803) 220-4363     |     LinkedIn:  https://www.linkedin.com/in/michael-andy-waters/ 
+
+  
+
+PROFESSIONAL SUMMARY  
+
+Proven IT leader and MBA graduate with 18+ years of progressive experience in Software Engineering including developing high-
+
+quality software, building high-performing teams, leading global cross-functional IT teams, and driving software development 
+
+initiatives across multiple industries. Skilled in analytics (R, Python), technical leadership, collaboration, negotiation-skills, Azure 
+
+cloud-native solutions, low-code development (Outsystems, BioFortis/LabMatrix), and custom software development (C#, Java, 
+
+Python, SQL, Angular), with a strong track record of delivering high-quality solutions and using analytics to facilitate data-driven 
+
+decision making. 
+
+ 
+
+EDUCATION  
+   MOORE SCHOOL OF BUSINESS, University of South Carolina                                     Columbia, SC USA  
+   Master of Science in Business Analytics (MSBA) GPA 3.6 / 4.0.                                            Aug 2023 – May 2024 
+   Courses include Data Science for Business Decision Making 
+ 
+    University of South Carolina - Aiken                Aiken, SC USA 
+    Master of Business Administration (MBA). GPA 3.9 / 4.0                Oct 2021 – May 2023 
+
+ 
+    FUQUA SCHOOL OF BUSINESS EXECUTIVE EDUCATION, Duke University       Durham, NC USA  
+    Certificate in Management & Leadership        Jan 2019 – Oct 2019 
+    
+    Limestone University             Gaffney, SC USA  
+    Bachelor of Science in Computer Science                Feb 2001 – May 2006
+     
+WORK EXPERIENCE  
+
+   Q2 LAB SOLUTIONS - a leading drug discovery and development laboratory services organization. Durham, NC USA (Remote)  
+
+   Director of Software Engineering (Head of Software Development and Delivery)  April 2020 – Present  
+
+Reports directly to the Head of IT for Q2. Led the development and delivery organization of 120+ global, cross-functional 
+
+employees focused on delivering the cloud-native “Lab of the Future” SaaS product, utilized to offer central lab services.   
+
+• Successfully led the conversion of the Waterfall SDLC methodology to an Agile SDLC, enabling bi-weekly software releases.  
+• Implemented standards and best practices through the establishment of architectural governance, reducing defect count by 
+
+75% and improving overall software quality.  
+• Led the expansion of feature workstreams from 1 to 7, enhancing development efficiency and product capabilities.  
+• Generated a 10% reduction in labor budget through effective resource management and organizational efficiencies. 
+• Enabled 40% increase in revenue through customer adoption, by delivering high-quality feature enhancements. 
+
+ 
+FIDELITY INVESTMENTS – retail investment-services firm                                               Durham, NC USA        
+Director of Cybersecurity Engineering              June 2015 – April 2020                                                                                                                                                                              
+Led development teams implementing Cybersecurity tools to facilitate access management across all of Fidelity Investments.   
+• Proposed and implemented a major initiative to expand custom developed Job Role application to accommodate stackable 
+
+roles across the enterprise. This effort standardized and stabilized a single centralized Job Role platform, after many years. 
+• Led the consolidation of Operational Account ownership reviews, using industry standard IAM vendor tool.  
+• Designed and led team in implementation of an access review tool that manages the reviews for 55,000 associates. 
+
+ 
+CARDINAL SOLUTIONS – professional services organization on-site at Fidelity Investments                                          Durham, NC USA        
+Principal Software Engineer/Team Lead                                Feb 2012 – June 2015                                                                                                                                                                                
+• Migrated WCF web services to Microsoft ASP.Net Web API to increase maintainability and productivity. 
+• Designed and implemented the technical solution to manage “High Risk” access reviews using ASP. Net Web API, Entity 
+
+Framework, and AngularJS. 
+• Modified previous High-Risk review application to support a plugin architecture to allow future program additions. 
+
+ 
+DUKE UNIVERSITY – division of clinical informatics                                                 Durham, NC USA        
+Analyst Programmer, Sr.                  April 2011 – Feb 2012    
+• Implemented a new SCRUM based iteration process to improve software delivery times and increase the software’s value by 
+
+more accurately prioritizing functionality. 
+
+
+
+• Designed and implemented a public facing ASP.Net MVC web site used for participant enrollment into the research study. 
+• Designed and implemented a data warehouse to provide reporting access to research data for internal customers. 
+
+ 
+THE PANTRY, INC. – retail gas station chain (parent company for Kangaroo Express)                                                          Cary, NC USA        
+Software Engineer                   Aug 2010 – April 2011                                                                                                                                                                                 
+• Designed, coded, and implemented a web-based application used to manage General Ledger account codes using ASP.Net 4.0, 
+
+AJAX, jQuery, and ADO.Net Entity Framework. 
+• Created a standard web application template by creating the base HTML and images that would be used by every developer 
+
+when creating new ASP.Net web applications. 
+ 
+
+DUKE UNIVERSITY  – OESO & Division of Clinical Informatics                                                                          Durham, NC USA        
+Director of Cybersecurity Engineering                  Sep 2006 – Aug 2010                                                                                                                                                                              
+• Designed, coded, and implemented a web-based participant enrollment system using C#, ASP.Net 3.5, jQuery, AJAX, and SQL 
+
+Server with Visual Studio 2008. 
+• Designed, coded, and implemented a web-based content application using Visual Basic.Net, C#, AJAX, ASP.Net 2.0 with Visual 
+
+Studio 2005. 
+• Designed and implemented metadata system based on HL7 Virtual Medical Record and ISO standard. 
+• Designed, coded, and implemented a web-based OSHA injury reporting and tracking system to ensure accuracy of injury data. 
+ 
+RED PRAIRIE – logistics software solutions company                                                                     Cary, NC USA        
+Software Support Developer                    June 2006 – Sep 2006 
+Developed SQL statements from Oracle or SQL databases. Troubleshot using C++, C# .Net, Java and Visual 
+Basic.                                                                                                                                                                              
+
+ 
+CRM SOFTWARE – financial planning customer management software (JUNXURE)                                                  Raleigh, NC USA       
+Software Support Specialist                        April 2005 – June 2006 
+Integrated Access-based programs, Visual Basic and VBA, with financial planning CRM software.                                                                                                                                                                              
+
+ 
+
+IT – ANALYTICAL General Applications   Excel (macros, modeling, pivot tables, Solver), Access, Word, PowerPoint, Outlook, 
+
+Project, Smart    
+
+                                                                             Sheets, SmartSolve  
+
+                             Data Analysis                    R, regression, Python (scikit-learn), Power BI   
+
+                             Database-Programming C#, C++, VBA, Visual Basic, Angular, JavaScript, Java, SQL, Ruby, Perl, Python 
+
+ 
+
+
+	PROFESSIONAL SUMMARY
+	WORK EXPERIENCE
+

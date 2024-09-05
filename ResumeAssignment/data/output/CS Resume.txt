@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JACK HYATT
+803-389-3540 ⋄ jahyatt@email.sc.edu ⋄ linkedin.com/in/jack-hyatt ⋄ github.com/JackHyatt
+
+EDUCATION
+
+University of South Carolina Honors College Spring 2025
+
+B.S. in Computer Science, B.S. in Mathematics Overall GPA : 3.855
+
+ACADEMIC ACHIEVEMENTS
+
+� SC Honors College 2025 � Dean’s List 2021-2024
+� President’s List Fall 2021,22,23 � Math Department Award 2023-2024
+
+EXPERIENCE
+
+Data Science REU, University of South Carolina, Columbia, SC June 2024 - July 2024
+
+� Used Autoencoders to explore and probe properties of graphs.
+
+� Incorporated Reinforcement Learning to challenge lower bounds in extremal graph theory problems.
+
+Data Science REU, University of South Carolina, Columbia, SC June 2023 - July 2023
+
+� Analyzed many papers to reference work and created Python scripts in SageMath to gather data with graphs.
+
+� Researched with a group to prove and write a paper in spectral graph theory (arXiv:2309.08548).
+
+Research Assistant, ASSET, Columbia, SC Dec 2021 - Sept 2022
+
+� Worked with a team to analyze and process 100+ hours of vibrational data, visualized to classify accuracy. Created
+scripts to process metadata of videos.
+
+� Used LaTeX’s TikZ package to create multiple layouts for rooms with accurate scale.
+
+PROJECTS
+
+Simplex Linear Programming Solver Fall 2022
+
+� Built a program from scratch that solves any size linear program in standard form using the Simplex method.
+
+� Coded in Python, utilizing Numpy.
+
+Hotel Room and Flight Booking System Spring 2022
+
+� Collaborated with a group to create a program that draws from a database of available hotel rooms and plane seats
+based on criteria given by the user.
+
+� Used Git to collaborate, Java as the language, and MongoDB for the database.
+
+RELEVANT COURSES
+
+Computer Science: Advanced Programming Techniques, Software Engineering, Programming Structures,
+Data Structures and Algorithms, Foundations of Computation, Big Data Analytics
+
+Mathematics: Multivariable Calculus, Linear Algebra, Ordinary Differential Equations, Discrete
+Mathematics I & II, Discrete Optimization, Analysis I & II, Abstract Algebra I
+Intro to Deep Neural Networks
+
+SKILLS
+
+Programming Languages: Python (Pandas, Numpy, Matplotlib), C++, Java, MATLAB, Bash, R
+Technical Skills: LaTeX, Git, SolidWorks (CSWE Certified), HTML, Microsoft Excel
+
+EXTRA-CURRICULAR ACTIVITIES
+
+� Tau Beta Pi - Engineering Honors Society 2022
+
+� Phi Beta Kappa - Academic Honors Society 2023
+
+

@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TrevorSeestedt_Resume
+
+
+Trevor Seestedt
+Doylestown, PA | 610-322-6475 | LinkedIn | GitHub | seestedttrevor@gmail.com
+
+EDUCATION
+
+University of South Carolina Columbia, SC
+Bachelor’s of Science in Computer Science Graduation Date: May 2025
+
+● Achievements: Dean's List (Fall 2021)
+
+CAREER OBJECTIVE
+
+As a fourth year undergraduate Computer Science student, I strive to work for a company that will provide me
+an opportunity to enhance my problem solving skills and to gain hands-on experience in software development.
+
+WORK EXPERIENCE
+
+Fintrx Boston, MA
+Data Operations Intern June 2024 - August 2024
+
+● Developed Python scripts to automate URL validation process, increasing efficiency.
+● Validated thousands of family offices, RIAs, broker dealers, and wealth teams websites.
+● Experience with web scraping techniques and CSV file manipulation for data processing tasks.
+● Created a comprehensive documentation of all data points within the platform.
+
+PCS Moorestown, NJ
+IT Technician Intern May 2023 - January 2024
+
+● Answered live calls in a fast-paced environment with great customer service while troubleshooting
+problems related to network connectivity, software errors and compatibility, user authentication, and
+hardware components.
+
+● Trained and educated newly hired technicians to effectively help them succeed within the workspace.
+● Worked independently at offsite customer locations to support them in person and ensure a high level of
+
+customer satisfaction.
+
+PROJECTS
+
+Programming Language Database Class Project
+Summary: By utilizing various techniques, the programming language database program allows users to create
+their own account where they can create unique and in-depth classes to learn programming languages. It also
+allows for users to enroll and interact with the created classes while simultaneously tracking their progression.
+
+● Led a team of three other students throughout the semester-long project
+● Designed project UML diagram via LucidChart
+● Programmed various classes, designed JSON, and created the program’s DataLoader
+
+TECHNICAL SKILLS & RELEVANT COURSEWORK
+
+Skills: Java, JavaScript, HTML, CSS, C++, AI, Python, MySQL, Git/GitHub, Leadership, and Communication
+Courses: Algorithmic Design II, UNIX/Linux Fundamentals, Advanced Programming Techniques, Software
+Engineering, Data Structure & Algorithms, Intro to Computer Networks, Database System Design, Artificial
+Intelligence, Statistics for Engineers, Capstone Computing Project I
+
+https://www.linkedin.com/in/trevor-seestedt-76363424a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FwjwAdOoTlabAFX6sB39sg%3D%3D
+https://github.com/TrevorSeestedt
+mailto:seestedttrevor@gmail.com
+
