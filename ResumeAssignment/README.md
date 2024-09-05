@@ -1,4 +1,5 @@
 CSCE-580 Resume Wordcloud Assignment
+
 The assignment is to create a wordcloud using both my personal resume and the
 resumes of the class.
 
